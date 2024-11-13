@@ -2,3 +2,4 @@ brainstorming data visualization
 Scatterplot
 timeseries
 piechart
+barchart

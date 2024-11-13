@@ -1,3 +1,4 @@
 brainstorming data visualization
 Scatterplot
 timeseries
+piechart
